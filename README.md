@@ -1,2 +1,1 @@
-#Proyecto de practica - Git, Github, Html, Css, Sass.
-(Flexbox-Grid-MQuery)
+# Proyecto de practica - Git, Github, Html, Css, Sass.
