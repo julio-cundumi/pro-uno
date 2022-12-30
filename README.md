@@ -1,1 +1,2 @@
-# Proyecto de practica - Git, Github, Html, Css, Sass.
+# Proyecto de practica 
+Git, Github, Html, Css, Sass.
