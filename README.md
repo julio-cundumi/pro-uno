@@ -1,2 +1,3 @@
 # Proyecto de practica 
-Git, Github, Html, Css, Sass.
+Git, Github, Html, Css.
+![screenshot](src/assets/img/screenshot.png)
